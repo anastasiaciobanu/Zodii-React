@@ -1,1 +1,1 @@
-# Zodii-React
+Este exact la fel ca celalalt doar ca l-am facut cu React (Node.js required, modifici doar ce e in src)
